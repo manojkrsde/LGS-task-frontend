@@ -1,6 +1,6 @@
 # 📖 Shoes Store - Frontend | React + Vite
 
-**`Live Preview`** : 
+**`Live Preview`** : https://lgs-task-frontend-6izn.vercel.app/
 
 - DUMMY ACCOUNT FOR TESTING:
 
